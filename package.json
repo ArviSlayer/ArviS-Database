@@ -1,0 +1,16 @@
+{
+  "name": "arvis-database",
+  "version": "1.0.0",
+  "description": "ArviS Special Backup",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "arvis",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.15"
+  }
+}
